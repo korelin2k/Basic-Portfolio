@@ -34,7 +34,7 @@ h1 {
     border-top: 2px solid #c0bdbd;
     overflow: auto;
     clear: both;
-    height: 100%;
+    min-height: 100%;
 }
 
 #name {
